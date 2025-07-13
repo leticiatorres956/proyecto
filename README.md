@@ -1,8 +1,4 @@
 
-![C#](C:\Users\Usuario\Downloads\logo(3).jpg)
-
-
-
 
 # 👩‍💻 ¡Hola! Soy Leticia Torres
 
