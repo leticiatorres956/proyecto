@@ -1,3 +1,9 @@
+
+![C#](C:\Users\Usuario\Downloads\logo(3).jpg)
+
+
+
+
 # 👩‍💻 ¡Hola! Soy Leticia Torres
 
 Soy una programadora web apasionada por el aprendizaje continuo y la creación de aplicaciones y entornos web. Tengo 33 años y actualmente cuento con más de 6 meses de experiencia práctica aprendiendo lenguajes de programación, bases de datos y herramientas del entorno de desarrollo.
